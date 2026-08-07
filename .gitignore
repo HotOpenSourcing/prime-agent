@@ -10,10 +10,8 @@ packages/*/dist-firefox/
 *.cpuprofile
 
 # Environment
-.env
 
 # Editor files
-.vscode/
 .zed/
 .idea/
 .claude/
@@ -43,3 +41,4 @@ collect.sh
 
 __pycache__/
 *.pyc
+config.bat
